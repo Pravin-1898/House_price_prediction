@@ -1,0 +1,16 @@
+Model Output 
+
+1. Linear Regression Model
+    Scores: [13.62268497  7.24390225  9.69846138  8.61663313  7.4185788 ]
+    Mean: 9.320052105318464
+    Standard Deviation: 2.327085745018924
+    
+2. Decision Tree Regression Model
+    Scores: [12.33373352  6.79543506 13.02305777  7.2929923   9.47010759]
+    Mean: 9.783065249260193
+    Standard Deviation: 2.538810747731534
+    
+3. Random Forest Regression Model
+    Scores: [11.26526136  4.43072453  8.40353425  6.67072047  7.09151641]
+    Mean: 7.5723514048036575
+    Standard Deviation: 2.2468826800826425
